@@ -4,3 +4,4 @@ dist/*
 target
 yarn-error.log
 .vs
+.idea
